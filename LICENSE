@@ -1,0 +1,49 @@
+# SecureLint License
+
+Copyright (c) 2025 Dom Merenda
+All rights reserved.
+
+## Grant of License
+
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for internal and commercial purposes, subject to the following conditions and limitations.
+
+This license grants a non-exclusive, non-transferable, non-sublicensable right to:
+
+* Run and use the Software in source or binary form.
+* Deploy the Software in production.
+* Evaluate and test the Software.
+
+## Restrictions
+
+The following are expressly prohibited:
+
+1. **No Derivative Works**
+   You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works of the Software, in whole or in part.
+   You may not fork the Software or publish modified versions under any name or in any form.
+
+2. **No Redistribution of Modified Versions**
+   You may not redistribute the Software with modifications, whether publicly or privately.
+   Unmodified redistribution is permitted only with this license file included in full and without alteration.
+
+3. **Amazon Exclusion**
+   Notwithstanding any other provision of this license, the Software may not be used, copied, executed, evaluated, tested, or otherwise accessed by:
+
+   * Amazon.com, Inc.
+   * Any subsidiary, parent, affiliate, or controlled entity of Amazon.com, Inc.
+   * Any contractor, consultant, or agent acting on behalf of the above entities.
+
+   This exclusion applies to all purposes, including but not limited to internal evaluation, research, development, testing, benchmarking, and production use.
+
+## Ownership
+
+The Software is licensed, not sold. All right, title, and interest in and to the Software, including all intellectual property rights, remain exclusively with the author.
+
+## Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Termination
+
+Any violation of the terms of this license will automatically terminate all rights granted herein, without notice.
+
+Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession.

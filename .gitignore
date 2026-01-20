@@ -1,0 +1,62 @@
+# Node / package managers
+
+node_modules/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+
+dist/
+build/
+out/
+lib/
+coverage/
+.nyc_output/
+
+# TypeScript
+
+*.tsbuildinfo
+
+# Environment files
+
+.env
+.env.*
+!.env.example
+
+# Logs
+
+logs/
+*.log
+
+# IDEs
+
+.vscode/
+.idea/
+*.iml
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Turbo / Nx / Monorepo caches
+
+.turbo/
+.nx/
+.cache/
+
+# SecureLint internal analysis artifacts
+
+.securelint-cache/
+.securelint-reports/
+
+# Temporary files
+
+tmp/
+temp/
+*.swp
+*.swo
+*~
