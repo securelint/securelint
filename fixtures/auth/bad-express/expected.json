@@ -1,0 +1,11 @@
+{
+  "tool": "securelint",
+  "version": "0.1.0",
+  "diagnostics": [
+    {
+      "rule_id": "AUTH-ROUTE-001",
+      "severity": "error",
+      "message": "Protected route is missing requireAuth middleware."
+    }
+  ]
+}
